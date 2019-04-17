@@ -1,0 +1,2 @@
+# python_mooc
+记录在大学mooc上北理工Python课程的每周小测试的代码
